@@ -1,10 +1,10 @@
 
-	ZunKiriMeta Ver1.00
+	ZunKiriMeta Ver1.01
 
 
 
 
-【Software name】	ZunKiriMeta Ver1.00
+【Software name】	ZunKiriMeta Ver1.01
 【Copyright holder】　　SUMA
 【Production date】　　　2023/8/13
 【By type】	Free software
@@ -53,4 +53,5 @@
 
 ・Change log
 2023/08/13 ver1.00　Completion
+2023/08/14 ver1.01　Correction of typos, and correction of a bug that caused some conversations to go wrong.
 　　
